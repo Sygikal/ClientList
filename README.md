@@ -96,6 +96,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Lean | Cade | https://lean.lol
 - Leet
 - Lime
+- Lonely
 - Lucid
 - Lumen
 - Luna
@@ -134,6 +135,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - RektSky
 - Remix | Vladamyr, Aidan, mees | https://remixclient.info
 - Resolute
+- Revelant | Revelant
 - Rise | Aidan | https://intent.store, https://spezz.exchange
 - Saint
 - Scov
