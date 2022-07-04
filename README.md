@@ -6,7 +6,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 ## BLATANT
 - Adjust
 - Aether
-- Aku
+- Aku | Nef
 - Aleph
 - Alpha Centauri
 - Arcane
@@ -35,7 +35,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Cloverhook
 - Corrosion | Dort
 - CottonCandy
-- Creed | https://www.youtube.com/watch?v=YsVMbH1tos4
+- Creed | https://youtube.com/watch?v=YsVMbH1tos4
 - Crispy
 - Crystalware Legacy
 - Crystalware Reloaded | Uncodeable
@@ -89,7 +89,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Ketamine | thomaz | https://intent.store
 - Kilo
 - Kirka
-- Kiwi | Segations | https://kiwiclient.xyz | https://www.youtube.com/watch?v=CtidtrLCbgY
+- Kiwi | Segations | https://kiwiclient.xyz | https://youtube.com/watch?v=CtidtrLCbgY
 - Koksense
 - Lavish
 - Leaf
@@ -114,7 +114,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Nivia
 - Noqware | Noq
 - Notorious
-- Novoline.wtf https://novoline.wtf
+- Novoline.wtf | https://novoline.wtf
 - Novoline@Intent | gast, tasteful | https://intent.store, https://spezz.exchange
 - Numb
 - ohareware
@@ -184,28 +184,28 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Wave
 - Whiz
 - Winter
-- Wurst https://wurstclient.net
+- Wurst | https://wurstclient.net
 - XIV
 - Zephyr
-- ZeroDay https://intent.store
+- ZeroDay | Nef | https://intent.store
 
 
 ## GHOST
-- Entropy https://entropy.club
-- Vape https://vape.gg
-- Drip https://drip.gg | https://neverlack.in/
-- Iridium https://iridium.wtf
-- Juul https://intent.store
+- Entropy | https://entropy.club
+- Vape | https://vape.gg
+- Drip | https://drip.gg, https://neverlack.in/
+- Iridium | https://iridium.wtf
+- Juul | https://intent.store
 - Rose
-- Koid N/A
-- Explicit N/A
-- Uboa N/A
-- Rose N/A
-- Slapp N/A
-- Stern N/A
-- Ploww https://ploow.store
-- Itami N/A
-- Myno N/A
-- Yagami N/A
-- Skyfall N/A
-- Raven B+ https://ravenbplus.cf/
+- Koid
+- Explicit
+- Uboa
+- Rose
+- Slapp
+- Stern
+- Ploww | https://ploow.store
+- Itami
+- Myno
+- Yagami
+- Skyfall
+- Raven B+ | https://ravenbplus.cf/
