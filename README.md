@@ -3,7 +3,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 
 (Name | Developer(s) | Website(s))
 
-**-  BLATANT -**
+## BLATANT
 - Adjust
 - Aether
 - Aku
@@ -190,7 +190,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - ZeroDay https://intent.store
 
 
-**- GHOST - **
+## GHOST
 - Entropy https://entropy.club
 - Vape https://vape.gg
 - Drip https://drip.gg | https://neverlack.in/
