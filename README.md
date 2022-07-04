@@ -1,6 +1,8 @@
 # ClientList
 A list of every 1.8.8/9 hacked client that has ever existed
 
+(Name | Developer(s) | Website)
+
 **-  BLATANT -**
 - Adjust N/A
 - Aku N/A
