@@ -79,10 +79,10 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Hummus
 - Hush
 - Hydra
-- Icarus https://haze.yt/icarus
+- Icarus | https://haze.yt/icarus
 - Ice
 - Immaculate
-- ISync https://intent.store
+- iSync| Jacobtread | https://intent.store
 - Jello | mentalfrostbyte
 - Jigsaw | robanaroban | https://jigsawclient.net
 - Karaguc
@@ -213,3 +213,4 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Yagami
 - Skyfall
 - Raven B+ | https://ravenbplus.cf/
+- Phantom | https://phantom.pub/
