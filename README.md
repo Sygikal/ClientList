@@ -1,7 +1,7 @@
 # ClientList
 A list of every 1.8.8/9 hacked client that has ever existed
 
-(Name | Developer(s) | Website)
+(Name | Developer(s) | Website(s))
 
 **-  BLATANT -**
 - Adjust N/A
@@ -176,8 +176,6 @@ A list of every 1.8.8/9 hacked client that has ever existed
 - Aurora
 - Ave
 - AveReborn
-- Spectrum | Sygikal, vaq, Psyc0tix | https://spectrum.lol
-- SpectrumX | Sygikal
 - Tropical
 - Epsilon
 - pipware
