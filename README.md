@@ -4,79 +4,79 @@ A list of every 1.8.8/9 hacked client that has ever existed
 (Name | Developer(s) | Website(s))
 
 **-  BLATANT -**
-- Adjust N/A
-- Aku N/A
-- Aleph N/A
+- Adjust
+- Aku
+- Aleph
 - Aether
-- Arcane N/A
+- Arcane
 - Artemis | G8LOL, Pointless, Bomt | https://intent.store, https://vetric.wtf
 - Astolfo | Zarzel, Voltz | <https://astolfo.lgbt>, https://spezz.exchange
 - Astomero
-- Astro N/A
+- Astro
 - Async | Exeos
 - AsyncWare
-- Autumn N/A
+- Autumn
 - Azura | https://intent.store, https://vetric.wtf
-- AzureWare N/A
-- Blizzard N/A
-- BlueZenith N/A
-- Carbon N/A
+- AzureWare
+- Blizzard
+- BlueZenith
+- Carbon
 - Centauri
-- Cheatware N/A
-- Clean N/A
-- Corrosion
-- CottonCandy N/A
+- Cheatware
+- Clean
+- Corrosion | Dort
+- CottonCandy
 - Creed | https://www.youtube.com/watch?v=YsVMbH1tos4
-- Crystalware Reloaded N/A
-- Debug N/A
+- Crystalware Reloaded | Uncodeable
+- Debug
 - Delta
 - Deluge
 - Diablo | Vince | https://intent.store, https://vetric.wtf, https://spezz.exchange
 - Dortware | Dort
 - Eject
 - Envy | Haq, Mat | https://envyclient.com
-- ETB N/A
-- ETB Reload
-- Eternal N/A
+- ETB
+- ETB Reloaded
+- Eternal
 - Euphoria
 - Execution
 - Exhibition | Arithmo | https://minesense.pub
 - Exist
 - Exodus https://vetric.wtf
-- FadeAway N/A
+- FadeAway
 - Faurax
-- Felix N/A
-- Flush N/A
+- Felix
+- Flush
 - Flux | ayataka, margele, coinful | https://flux.today
-- FusionX N/A
-- GameWare N/A
-- Genesis N/A
-- Gravity N/A
-- Hanabi N/A
-- Hawk N/A
-- Helium N/A
-- HTB N/A
-- Hummus N/A
+- FusionX
+- GameWare
+- Genesis
+- Gravity
+- Hanabi
+- Hawk
+- Helium
+- HTB
+- Hummus
 - Hush
-- Hydra N/A
+- Hydra
 - Icarus https://haze.yt/icarus
 - Ice
-- Immaculate N/A
+- Immaculate
 - ISync https://intent.store
 - Jello | mentalfrostbyte
 - Jigsaw | robanaroban | https://jigsawclient.net
 - Ketamine | thomaz | https://intent.store
-- Koksense N/A
+- Koksense
 - Lavish
-- Leet N/A
-- Lime N/A
+- Leet
+- Lime
 - Lucid
-- Lumen N/A
-- Lyon N/A
+- Lumen
+- Lyon
 - Massacre
-- Meme N/A
+- Meme
 - Mega | Exeos
-- Memeware N/A
+- Memeware
 - Monsoon | quickdaffy | https://monsoon.wtf
 - Moon | Lennox | https://moonclient.xyz, https://moonx.gg
 - MoonX
@@ -84,8 +84,8 @@ A list of every 1.8.8/9 hacked client that has ever existed
 - Nivia
 - Novoline.wtf https://novoline.wtf
 - Novoline@Intent | gast, tasteful | https://intent.store, https://spezz.exchange
-- OmegaM0d N/A
-- Osmium N/A
+- OmegaM0d
+- Osmium
 - Onyx
 - Pandaware
 - Peter | Shiiro, Eiken | https://minecraft-clients.de/products/peter-minecraft-client
@@ -100,9 +100,9 @@ A list of every 1.8.8/9 hacked client that has ever existed
 - Rise | Aidan | https://intent.store, https://spezz.exchange
 - Saint
 - Scov
-- Sensation N/A
+- Sensation
 - Sernant
-- Sight N/A
+- Sight
 - Sigma https://sigmaclient.info
 - SkyLine
 - Sleek | Divine | https://sleek.cc, https://vetric.wtf
