@@ -110,6 +110,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Moon | Lennox | https://moonclient.xyz, https://moonx.gg
 - MoonX
 - Moropheles | Error, Stolasis | https://intent.store, https://vetric.wtf
+- Myth
 - Night
 - Nivia
 - Noqware | Noq
@@ -188,6 +189,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - XIV
 - Zephyr
 - ZeroDay | Nef | https://intent.store
+- HelpSenSe
 
 
 ## GHOST
