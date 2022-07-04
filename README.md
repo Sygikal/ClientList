@@ -1,2 +1,190 @@
 # ClientList
 A list of every 1.8.8/9 hacked client that has ever existed
+
+**-  BLATANT -**
+- Adjust N/A
+- Aku N/A
+- Aleph N/A
+- Aether
+- Arcane N/A
+- Artemis | G8LOL, Pointless, Bomt | https://intent.store, https://vetric.wtf
+- Astolfo | Zarzel, Voltz | <https://astolfo.lgbt>, https://spezz.exchange
+- Astomero
+- Astro N/A
+- Async | Exeos
+- AsyncWare
+- Autumn N/A
+- Azura | https://intent.store, https://vetric.wtf
+- AzureWare N/A
+- Blizzard N/A
+- BlueZenith N/A
+- Carbon N/A
+- Centauri
+- Cheatware N/A
+- Clean N/A
+- Corrosion
+- CottonCandy N/A
+- Creed | https://www.youtube.com/watch?v=YsVMbH1tos4
+- Crystalware Reloaded N/A
+- Debug N/A
+- Delta
+- Deluge
+- Diablo | Vince | https://intent.store, https://vetric.wtf, https://spezz.exchange
+- Dortware | Dort
+- Eject
+- Envy | Haq, Mat | https://envyclient.com
+- ETB N/A
+- ETB Reload
+- Eternal N/A
+- Euphoria
+- Execution
+- Exhibition | Arithmo | https://minesense.pub
+- Exist
+- Exodus https://vetric.wtf
+- FadeAway N/A
+- Faurax
+- Felix N/A
+- Flush N/A
+- Flux | ayataka, margele, coinful | https://flux.today
+- FusionX N/A
+- GameWare N/A
+- Genesis N/A
+- Gravity N/A
+- Hanabi N/A
+- Hawk N/A
+- Helium N/A
+- HTB N/A
+- Hummus N/A
+- Hush
+- Hydra N/A
+- Icarus https://haze.yt/icarus
+- Ice
+- Immaculate N/A
+- ISync https://intent.store
+- Jello | mentalfrostbyte
+- Jigsaw | robanaroban | https://jigsawclient.net
+- Ketamine | thomaz | https://intent.store
+- Koksense N/A
+- Lavish
+- Leet N/A
+- Lime N/A
+- Lucid
+- Lumen N/A
+- Lyon N/A
+- Massacre
+- Meme N/A
+- Mega | Exeos
+- Memeware N/A
+- Monsoon | quickdaffy | https://monsoon.wtf
+- Moon | Lennox | https://moonclient.xyz, https://moonx.gg
+- MoonX
+- Moropheles | Error, Stolasis | https://intent.store, https://vetric.wtf
+- Nivia
+- Novoline.wtf https://novoline.wtf
+- Novoline@Intent | gast, tasteful | https://intent.store, https://spezz.exchange
+- OmegaM0d N/A
+- Osmium N/A
+- Onyx
+- Pandaware
+- Peter | Shiiro, Eiken | https://minecraft-clients.de/products/peter-minecraft-client
+- Polaris
+- Prestige https://minecraft-clients.de/products/prestige-client
+- Pulsive | Flashy |https://intent.store, https://vetric.wtf
+- Radium
+- Rainbow
+- RektSky
+- Remix | Vladamyr, Aidan, mees | https://remixclient.info
+- Resolute
+- Rise | Aidan | https://intent.store, https://spezz.exchange
+- Saint
+- Scov
+- Sensation N/A
+- Sernant
+- Sight N/A
+- Sigma https://sigmaclient.info
+- SkyLine
+- Sleek | Divine | https://sleek.cc, https://vetric.wtf
+- Slowly https://www.youtube.com/watch?v=n39uBEkC15M
+- Spicy
+- Splash
+- SRT | Uncodeable
+- Stitch https://stitch.best
+- Strife
+- Suicide
+- Sulfur
+- Summer
+- Summer Reborn
+- Supreme
+- Temper | LucaForever| https://vetric.wtf
+- Tenacity | cedo, senoe, tear | https://intent.store, https://tenacity.dev, https://spezz.exchange
+- The Boys
+- ThunderWare
+- Tomato
+- Trivia
+- UwUWare
+- Vanta
+- Venus
+- Vestige | YesCheatPlus | https://vetric.wtf
+- Violet
+- Virtue
+- Vulture
+- Wave
+- Winter
+- Wurst https://wurstclient.net
+- Zephyr
+- ZeroDay https://intent.store
+- Unfairsense
+- Void
+- Voided
+- Graphical
+- Notorious
+- Dawn
+- SunX
+- Whiz
+- Crispy
+- Cloverhook
+- ohareware
+- Tifality
+- Triton
+- Cherry
+- Faygo
+- Karaguc
+- Kilo
+- Luna
+- Monix
+- Numb
+- Protocol
+- Squad
+- Tea
+- Uzi
+- Alpha Centauri
+- Kirka
+- Leaf
+- Mint
+- Selenium
+- Slice
+- XIV
+- Horizon
+- Hera
+- Glow
+- FiraClient
+- Crystalware Legacy
+- Bope
+- Catalyst
+- Aurora
+- Ave
+- AveReborn
+- Spectrum | Sygikal, vaq, Psyc0tix | https://spectrum.lol
+- SpectrumX | Sygikal
+- Tropical
+- Epsilon
+- pipware
+- Uberware
+- Scrit | Vamp, Spiny, Hello_SW 
+- Noqware | Noq
+- Galactic | Cade | https://www.galactic.wtf/
+- Lean | Cade | https://lean.lol
+- Axolotl
+- Night
+- Kiwi | Segations | https://kiwiclient.xyz | https://www.youtube.com/watch?v=CtidtrLCbgY
+- Shroom | Exeos
