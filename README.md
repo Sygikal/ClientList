@@ -37,7 +37,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - CottonCandy
 - Creed | https://youtube.com/watch?v=YsVMbH1tos4
 - Crispy
-- Crystalware Legacy
+- Crystalware Legacy | Uncodeable
 - Crystalware Reloaded | Uncodeable
 - Dawn
 - Debug
