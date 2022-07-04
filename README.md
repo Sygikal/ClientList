@@ -125,7 +125,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Osmium
 - Pandaware
 - Peter | Shiiro, Eiken | https://minecraft-clients.de/products/peter-minecraft-client
-- pipware
+- pipware | pip.java | https://streamable.com/jcpt00
 - Polaris
 - Prestige https://minecraft-clients.de/products/prestige-client
 - Protocol
