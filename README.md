@@ -1,5 +1,5 @@
 # ClientList
-A list of every 1.8.8/9 hacked client that has ever existed
+A list of every 1.8.8/9 blatant or ghost client that has ever existed
 
 (Name | Developer(s) | Website(s))
 
@@ -188,3 +188,24 @@ A list of every 1.8.8/9 hacked client that has ever existed
 - XIV
 - Zephyr
 - ZeroDay https://intent.store
+
+
+**- GHOST - **
+- Entropy https://entropy.club
+- Vape https://vape.gg
+- Drip https://drip.gg | https://neverlack.in/
+- Iridium https://iridium.wtf
+- Juul https://intent.store
+- Rose
+- Koid N/A
+- Explicit N/A
+- Uboa N/A
+- Rose N/A
+- Slapp N/A
+- Stern N/A
+- Ploww https://ploow.store
+- Itami N/A
+- Myno N/A
+- Yagami N/A
+- Skyfall N/A
+- Raven B+ https://ravenbplus.cf/
