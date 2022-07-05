@@ -182,7 +182,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Violet
 - Virtue
 - Void
-- Voided
+- Voided | Ai | https://discord.gg/phY6G4PP
 - Vulture
 - Wave
 - Whiz
