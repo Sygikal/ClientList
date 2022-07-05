@@ -200,7 +200,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Tenacity | cedo, senoe, tear | https://intent.store, https://tenacity.dev, https://spezz.exchange
 - The Boys
 - ThunderWare
-- Tifality
+- Tifality | https://tifality.club/
 - Tomato
 - Triton
 - Trivia
