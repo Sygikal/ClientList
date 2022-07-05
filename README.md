@@ -17,6 +17,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Astro
 - Async | Exeos
 - AsyncWare
+- Athena | https://youtube.com/watch?v=Mj0mQDmFdOE
 - Aurora
 - Autumn
 - Ave
