@@ -10,6 +10,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Aleph
 - Alpha Centauri
 - AlphaAntiClient | https://youtube.com/watch?v=G0B7ewHfNpk
+- Amera | https://youtube.com/watch?v=X9DCpUDecUo
 - Allure | Posk
 - Arcane
 - Artemis | G8LOL, Pointless, Bomt | https://intent.store, https://vetric.wtf, https://elixirservices.lol, https://minecraftclients.com
@@ -30,6 +31,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Blizzard
 - BlueZenith
 - Bope
+- BiT | https://youtube.com/watch?v=ewdjf1ttebQ
 - Carbon
 - Catalyst
 - Centauri
@@ -48,7 +50,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Dawn
 - Debug
 - Delta
-- Deluge
+- Deluge | https://youtube.com/watch?v=I5Fo5Pdm7EA
 - DJ | https://youtube.com/watch?v=qkmuV-VwFZ0
 - Depression | https://youtube.com/watch?v=zwJRWAB4fM4
 - Diablo | Vince | https://intent.store, https://vetric.wtf, https://spezz.exchange, https://minecraftclients.com
@@ -127,10 +129,12 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - MoonX
 - Moropheles | Error, Stolasis | https://intent.store, https://vetric.wtf, https://minecraftclients.com
 - Myth | https://elixirservices.lol
+- Milky | https://youtube.com/watch?v=N_PufTSoDGc
 - NeverHook | https://youtube.com/watch?v=m3ErCJWe3oQ
 - Night
 - Nightmare 2 | https://youtube.com/watch?v=ALHBxxXszgQ
 - Nivia
+- Null | https://youtube.com/watch?v=bt2Gmk3WSxw
 - Niobium | https://elixirservices.lol
 - Noqware | Noq
 - Notorious | https://elixirservices.lol
@@ -145,6 +149,8 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Onyx
 - Osmium
 - Pandaware | https://minecraftclients.com
+- Parallaxa | https://youtube.com/watch?v=GpNwh7iiV7k
+- Pandora | https://youtube.com/watch?v=6lDnWecoaq0
 - Peter | Shiiro, Eiken | https://minecraft-clients.de/products/peter-minecraft-client
 - pipware | pip.java | https://streamable.com/jcpt00
 - Polaris
@@ -152,6 +158,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Protocol
 - Pulsive | Flashy | https://intent.store, https://vetric.wtf
 - Punish | egogugu | https://youtube.com/watch?v=FULpWLfN8Oo
+- Protocol | https://youtube.com/watch?v=0hAa6fW4BaE
 - Radium
 - Rainbow
 - RektSky
@@ -159,6 +166,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Resolute
 - Revelant | Revelant
 - Rise | Aidan | https://intent.store, https://spezz.exchange
+- Robot | LWFox | https://youtube.com/watch?v=m2QeQJHkey0
 - Saint
 - Sallos | https://youtube.com/watch?v=2nS5MuF1tC8
 - Scov
