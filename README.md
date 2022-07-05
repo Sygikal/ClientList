@@ -5,12 +5,12 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 
 ## BLATANT
 - Adjust
-- Aether
+- Aether | https://minecraftclients.com
 - Aku | Nef
 - Aleph
 - Alpha Centauri
 - Arcane
-- Artemis | G8LOL, Pointless, Bomt | https://intent.store, https://vetric.wtf
+- Artemis | G8LOL, Pointless, Bomt | https://intent.store, https://vetric.wtf, https://elixirservices.lol, https://minecraftclients.com
 - Astolfo | Zarzel, Voltz | <https://astolfo.lgbt>, https://spezz.exchange
 - Astomero
 - Astro
@@ -21,7 +21,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Ave
 - AveReborn
 - Axolotl
-- Azura | https://intent.store, https://vetric.wtf
+- Azura | https://intent.store, https://vetric.wtf, https://minecraftclients.com
 - AzureWare
 - Blizzard
 - BlueZenith
@@ -43,7 +43,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Debug
 - Delta
 - Deluge
-- Diablo | Vince | https://intent.store, https://vetric.wtf, https://spezz.exchange
+- Diablo | Vince | https://intent.store, https://vetric.wtf, https://spezz.exchange, https://minecraftclients.com
 - Dortware | Dort
 - Eject
 - Envy | Haq, Mat | https://envyclient.com
@@ -62,7 +62,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Felix
 - FiraClient
 - Flush
-- Flux | ayataka, margele, coinful | https://flux.today
+- Flux | ayataka, margele, coinful | https://flux.today, https://minecraftclients.com
 - FusionX
 - Galactic | Cade | https://www.galactic.wtf/
 - GameWare
@@ -86,7 +86,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Jello | mentalfrostbyte
 - Jigsaw | robanaroban | https://jigsawclient.net
 - Karaguc
-- Ketamine | thomaz | https://intent.store
+- Ketamine | thomaz | https://intent.store, https://minecraftclients.com
 - Kilo
 - Kirka
 - Kiwi | Segations | https://kiwiclient.xyz | https://youtube.com/watch?v=CtidtrLCbgY
@@ -105,17 +105,18 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Mega | Exeos
 - Meme
 - Memeware
-- Mint
+- Mint | https://elixirservices.lol
 - Monix
 - Monsoon | quickdaffy | https://monsoon.wtf
 - Moon | Lennox | https://moonclient.xyz, https://moonx.gg
 - MoonX
-- Moropheles | Error, Stolasis | https://intent.store, https://vetric.wtf
-- Myth
+- Moropheles | Error, Stolasis | https://intent.store, https://vetric.wtf, https://minecraftclients.com
+- Myth | https://elixirservices.lol
 - Night
 - Nivia
+- Niobium | https://elixirservices.lol
 - Noqware | Noq
-- Notorious
+- Notorious | https://elixirservices.lol
 - Novoline.wtf | https://novoline.wtf
 - Novoline@Intent | gast, tasteful | https://intent.store, https://spezz.exchange
 - Numb
@@ -123,7 +124,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - OmegaM0d
 - Onyx
 - Osmium
-- Pandaware
+- Pandaware | https://minecraftclients.com
 - Peter | Shiiro, Eiken | https://minecraft-clients.de/products/peter-minecraft-client
 - pipware | pip.java | https://streamable.com/jcpt00
 - Polaris
@@ -172,7 +173,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Triton
 - Trivia
 - Tropical
-- Uberware
+- Uberware | https://elixirservices.lol
 - Unfairsense
 - UwUWare
 - Uzi
@@ -192,6 +193,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Zephyr
 - ZeroDay | Nef | https://intent.store
 - HelpSenSe
+- Vertigo | https://elixirservices.lol
 
 
 ## GHOST
@@ -199,8 +201,8 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Vape | https://vape.gg
 - Drip | https://drip.gg, https://neverlack.in/
 - Iridium | https://iridium.wtf
-- Juul | https://intent.store
-- Rose
+- Juul | https://intent.store, https://minecraftclients.com
+- Rose | https://minecraftclients.com
 - Koid
 - Explicit
 - Uboa
