@@ -9,6 +9,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Aku | Nef
 - Aleph
 - Alpha Centauri
+- AlphaAntiClient | https://youtube.com/watch?v=G0B7ewHfNpk
 - Allure | Posk
 - Arcane
 - Artemis | G8LOL, Pointless, Bomt | https://intent.store, https://vetric.wtf, https://elixirservices.lol, https://minecraftclients.com
@@ -24,6 +25,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - AveReborn
 - Axolotl
 - Azura | https://intent.store, https://vetric.wtf, https://minecraftclients.com
+- Azik | https://youtube.com/watch?v=m-8QSnlKLqE
 - AzureWare
 - Blizzard
 - BlueZenith
@@ -31,6 +33,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Carbon
 - Catalyst
 - Centauri
+- Celestial | https://youtube.com/watch?v=friBYb1JDaA
 - Cheatware
 - Cherry
 - Clean
@@ -38,6 +41,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Corrosion | Dort
 - CottonCandy
 - Creed | https://youtube.com/watch?v=YsVMbH1tos4
+- Creeper | https://youtube.com/watch?v=zp_wx5uDlaI
 - Crispy
 - Crystalware Legacy | Uncodeable
 - Crystalware Reloaded | Uncodeable
@@ -45,8 +49,11 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Debug
 - Delta
 - Deluge
+- DJ | https://youtube.com/watch?v=qkmuV-VwFZ0
+- Depression | https://youtube.com/watch?v=zwJRWAB4fM4
 - Diablo | Vince | https://intent.store, https://vetric.wtf, https://spezz.exchange, https://minecraftclients.com
 - Dortware | Dort
+- Eazy | https://youtube.com/watch?v=WyywcOxY3KY
 - Eject
 - Envy | Haq, Mat | https://envyclient.com
 - Epsilon
@@ -58,6 +65,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Exhibition | Arithmo | https://minesense.pub
 - Exist
 - Exodus https://vetric.wtf
+- Fade | https://youtube.com/watch?v=dMQK_kMuCYU
 - FadeAway
 - Faurax
 - Faygo
@@ -65,6 +73,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - FiraClient
 - Flush
 - Flux | ayataka, margele, coinful | https://flux.today, https://minecraftclients.com
+- Floon | https://youtube.com/watch?v=osxbpCnyE0g
 - FusionX
 - Galactic | Cade | https://www.galactic.wtf/
 - GameWare
@@ -85,6 +94,8 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Ice
 - Immaculate
 - iSync| Jacobtread | https://intent.store
+- Intel | https://youtube.com/watch?v=LWoK2D7357I
+- Jam | https://youtube.com/watch?v=a64TWy-4-jE
 - Jello | mentalfrostbyte
 - Jigsaw | robanaroban | https://jigsawclient.net
 - Karaguc
@@ -101,12 +112,14 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Lonely
 - Lucid
 - Lumen
-- Luna
+- Luna | https://youtube.com/watch?v=4SZfgBUtTwE
 - Lyon
 - Massacre
 - Mega | Exeos
+- Medusa | https://youtube.com/watch?v=uwk24UQFxo0
 - Meme
 - Memeware
+- Metro | https://youtube.com/watch?v=7lD27to34Ic
 - Mint | https://elixirservices.lol
 - Monix
 - Monsoon | quickdaffy | https://monsoon.wtf
@@ -114,16 +127,21 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - MoonX
 - Moropheles | Error, Stolasis | https://intent.store, https://vetric.wtf, https://minecraftclients.com
 - Myth | https://elixirservices.lol
+- NeverHook | https://youtube.com/watch?v=m3ErCJWe3oQ
 - Night
+- Nightmare 2 | https://youtube.com/watch?v=ALHBxxXszgQ
 - Nivia
 - Niobium | https://elixirservices.lol
 - Noqware | Noq
 - Notorious | https://elixirservices.lol
 - Novoline.wtf | https://novoline.wtf
 - Novoline@Intent | gast, tasteful | https://intent.store, https://spezz.exchange
+- NoName | https://youtube.com/watch?v=uDg7462kyAc
 - Numb
 - ohareware
-- OmegaM0d
+- Obscure | https://youtube.com/watch?v=-uPeJPHz2cA
+- OmegaM0d | https://youtube.com/watch?v=VfBSaCqvs5M
+- Omikron | Omikron | https://youtube.com/watch?v=wJ6Xp6hzOpU
 - Onyx
 - Osmium
 - Pandaware | https://minecraftclients.com
@@ -132,7 +150,8 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Polaris
 - Prestige https://minecraft-clients.de/products/prestige-client
 - Protocol
-- Pulsive | Flashy |https://intent.store, https://vetric.wtf
+- Pulsive | Flashy | https://intent.store, https://vetric.wtf
+- Punish | egogugu | https://youtube.com/watch?v=FULpWLfN8Oo
 - Radium
 - Rainbow
 - RektSky
@@ -141,11 +160,13 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Revelant | Revelant
 - Rise | Aidan | https://intent.store, https://spezz.exchange
 - Saint
+- Sallos | https://youtube.com/watch?v=2nS5MuF1tC8
 - Scov
 - Scrit | Vamp, Spiny, Hello_SW
 - Selenium
 - Sensation
 - Sernant
+- Serenity | https://youtube.com/watch?v=oudaOXzaAT8
 - Shroom | Exeos
 - Sight
 - Sigma https://sigmaclient.info
@@ -159,12 +180,13 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - SRT | Uncodeable
 - Stitch https://stitch.best
 - Strife
-- Suicide
+- Suicide | https://youtube.com/watch?v=sES_H3b71HY
 - Sulfur
 - Summer
 - Summer Reborn
 - SunX
 - Supreme
+- Synergy | https://youtube.com/watch?v=ix1RT1hzAAo
 - Tea
 - Temper | LucaForever| https://vetric.wtf
 - Tenacity | cedo, senoe, tear | https://intent.store, https://tenacity.dev, https://spezz.exchange
@@ -191,9 +213,13 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Whiz
 - Winter
 - Wurst | https://wurstclient.net
+- Xero | https://youtube.com/watch?v=wJUX-QhUXNk
 - XIV
+- Yack | https://youtube.com/watch?v=wxiRNoC2bC8
 - Zephyr
+- Zecrus | https://youtube.com/watch?v=SeRjWf5bjLY
 - ZeroDay | Nef | https://intent.store
+- Zyklus | WitherHax | https://youtube.com/watch?v=sDUdiP5-E3g
 - HelpSenSe
 - Vertigo | https://elixirservices.lol
 
@@ -212,6 +238,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Slapp
 - Stern
 - Ploww | https://ploow.store
+- Gucci | https://youtube.com/watch?v=OExKLcgccps
 - Itami
 - Myno
 - Yagami
