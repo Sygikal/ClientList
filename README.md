@@ -9,6 +9,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Aku | Nef
 - Aleph
 - Alpha Centauri
+- Allure | Posk
 - Arcane
 - Artemis | G8LOL, Pointless, Bomt | https://intent.store, https://vetric.wtf, https://elixirservices.lol, https://minecraftclients.com
 - Astolfo | Zarzel, Voltz | <https://astolfo.lgbt>, https://spezz.exchange
