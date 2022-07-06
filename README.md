@@ -100,6 +100,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Jam | https://youtube.com/watch?v=a64TWy-4-jE
 - Jello | mentalfrostbyte
 - Jigsaw | robanaroban | https://jigsawclient.net
+- Kagu | DistastefulBannock
 - Karaguc
 - Ketamine | thomaz | https://intent.store, https://minecraftclients.com
 - Kilo
@@ -165,7 +166,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Remix | Vladamyr, Aidan, mees | https://remixclient.info
 - Resolute
 - Revelant | Revelant
-- Rise | Aidan | https://intent.store, https://spezz.exchange
+- Rise | Aidan | https://riseclient.com, https://intent.store, https://spezz.exchange
 - Robot | LWFox | https://youtube.com/watch?v=m2QeQJHkey0
 - Saint
 - Sallos | https://youtube.com/watch?v=2nS5MuF1tC8
