@@ -190,6 +190,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Squad
 - SRT | Uncodeable
 - Stitch https://stitch.best
+- Styles | https://youtube.com/watch?v=U9_6cR06VbE
 - Strife
 - Suicide | https://youtube.com/watch?v=sES_H3b71HY
 - Sulfur
