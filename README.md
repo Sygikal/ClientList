@@ -117,6 +117,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Lumen
 - Luna | https://youtube.com/watch?v=4SZfgBUtTwE
 - Lyon
+- Mallory | https://youtu.be/JaDCve3wcp8
 - Massacre
 - Mega | Exeos
 - Medusa | https://youtube.com/watch?v=uwk24UQFxo0
@@ -226,6 +227,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - XIV
 - Yack | https://youtube.com/watch?v=wxiRNoC2bC8
 - Zephyr
+- Zetra | Segations
 - Zecrus | https://youtube.com/watch?v=SeRjWf5bjLY
 - ZeroDay | Nef | https://intent.store
 - Zyklus | WitherHax | https://youtube.com/watch?v=sDUdiP5-E3g
