@@ -121,6 +121,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Massacre
 - Mega | Exeos
 - Medusa | https://youtube.com/watch?v=uwk24UQFxo0
+- Menace | https://menaceclient.ml
 - Meme
 - Memeware
 - Metro | https://youtube.com/watch?v=7lD27to34Ic
