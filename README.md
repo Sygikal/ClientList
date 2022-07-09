@@ -67,6 +67,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Exhibition | Arithmo | https://minesense.pub
 - Exist
 - Exodus https://vetric.wtf
+- Eris
 - Fade | https://youtube.com/watch?v=dMQK_kMuCYU
 - FadeAway
 - Faurax
@@ -168,6 +169,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Remix | Vladamyr, Aidan, mees | https://remixclient.info
 - Resolute
 - Revelant | Revelant
+- Ries | Uncodeable
 - Rise | Aidan | https://riseclient.com, https://intent.store, https://spezz.exchange
 - Robot | LWFox | https://youtube.com/watch?v=m2QeQJHkey0
 - Saint
