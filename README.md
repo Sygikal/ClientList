@@ -128,7 +128,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Metro | https://youtube.com/watch?v=7lD27to34Ic
 - Mint | https://elixirservices.lol
 - Monix
-- Monsoon | quickdaffy | https://monsoon.wtf
+- Monsoon | quickdaffy, Skeeto, JustNathan, Shoroa_ | https://monsoon.wtf, https://minecraftclients.com
 - Moon | Lennox | https://moonclient.xyz, https://moonx.gg
 - MoonX
 - Moropheles | Error, Stolasis | https://intent.store, https://vetric.wtf, https://minecraftclients.com
@@ -212,7 +212,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Triton
 - Trivia
 - Tropical
-- Uberware | https://elixirservices.lol
+- Uberware | https://elixirservices.lol, https://minecraftclients.com
 - Unfairsense
 - UwUWare
 - Uzi
@@ -246,7 +246,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Drip | https://drip.gg, https://neverlack.in/
 - Iridium | https://iridium.wtf
 - Juul | https://intent.store, https://minecraftclients.com
-- Rose | https://minecraftclients.com
+- Rose
 - Koid
 - Explicit
 - Uboa
