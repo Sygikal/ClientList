@@ -172,6 +172,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Ries | Uncodeable
 - Rise | Aidan | https://riseclient.com, https://intent.store, https://spezz.exchange
 - Robot | LWFox | https://youtube.com/watch?v=m2QeQJHkey0
+- Roani | Shoroa_ | https://cdn.discordapp.com/attachments/604764182830645259/995314915755687936/2022-07-09_02-00-33.mp4
 - Saint
 - Sallos | https://youtube.com/watch?v=2nS5MuF1tC8
 - Scov
