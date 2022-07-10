@@ -261,3 +261,4 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Skyfall
 - Raven B+ | https://ravenbplus.cf/
 - Phantom | https://phantom.pub/
+- Whiteout | https://whiteout.lol
