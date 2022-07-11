@@ -202,6 +202,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - SunX
 - Supreme
 - Synergy | https://youtube.com/watch?v=ix1RT1hzAAo
+- Spring | xnbt
 - Tea
 - Temper | LucaForever| https://vetric.wtf
 - Tenacity | cedo, senoe, tear | https://intent.store, https://tenacity.dev, https://spezz.exchange
