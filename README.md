@@ -230,6 +230,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Winter
 - Wurst | https://wurstclient.net
 - Xero | https://youtube.com/watch?v=wJUX-QhUXNk
+- Xeno (Formerly Mint) | segations, capsolock
 - XIV
 - Yack | https://youtube.com/watch?v=wxiRNoC2bC8
 - Zephyr
