@@ -6,6 +6,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 ## BLATANT
 - Adjust
 - Aether | https://minecraftclients.com
+- Affinity | https://dick-f.art/vn39pbou.mp4
 - Aku | Nef
 - Aleph
 - Alpha Centauri
