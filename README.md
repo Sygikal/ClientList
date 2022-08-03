@@ -14,6 +14,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Amera | https://youtube.com/watch?v=X9DCpUDecUo
 - Allure | Posk
 - Arcane
+- Aqua | https://youtube.com/watch?v=PS8T1t0qWkk
 - Artemis | G8LOL, Pointless, Bomt | https://intent.store, https://vetric.wtf, https://elixirservices.lol, https://minecraftclients.com
 - Astolfo | Zarzel, Voltz | <https://astolfo.lgbt>, https://spezz.exchange
 - Astomero
