@@ -103,6 +103,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Jam | https://youtube.com/watch?v=a64TWy-4-jE
 - Jello | mentalfrostbyte
 - Jigsaw | robanaroban | https://jigsawclient.net
+- Kawaii | https://intent.store
 - Kagu | DistastefulBannock
 - Karaguc
 - Ketamine | thomaz | https://intent.store, https://minecraftclients.com
@@ -198,7 +199,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Styles | https://youtube.com/watch?v=U9_6cR06VbE
 - Strife
 - Suicide | https://youtube.com/watch?v=sES_H3b71HY
-- Sulfur
+- Sulfur | https://youtube.com/watch?v=gMEmAk2NAuY
 - Summer
 - Summer Reborn
 - SunX
