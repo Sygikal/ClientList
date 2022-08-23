@@ -146,7 +146,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Noqware | Noq
 - Notorious | https://elixirservices.lol
 - Novoline.wtf | https://novoline.wtf
-- Novoline@Intent | gast, tasteful | https://intent.store, https://spezz.exchange
+- Novoline.lol | gast, tasteful | https://novoline.lol, https://spezz.exchange
 - NoName | https://youtube.com/watch?v=uDg7462kyAc
 - Numb
 - ohareware
@@ -254,6 +254,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Rose
 - Koid
 - Explicit
+- Foodbyte
 - Uboa
 - Rose
 - Slapp
