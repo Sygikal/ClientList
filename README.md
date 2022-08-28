@@ -142,9 +142,9 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Nightmare 2 | https://youtube.com/watch?v=ALHBxxXszgQ
 - Nivia
 - Null | https://youtube.com/watch?v=bt2Gmk3WSxw
-- Niobium | https://elixirservices.lol
+- Niobium | https://niobium.cf
 - Noqware | Noq
-- Notorious | https://elixirservices.lol
+- Notorious | Pepsi76 | https://elixirservices.lol
 - Novoline.wtf | https://novoline.wtf
 - Novoline.lol | gast, tasteful | https://novoline.lol, https://spezz.exchange
 - NoName | https://youtube.com/watch?v=uDg7462kyAc
