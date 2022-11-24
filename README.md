@@ -86,6 +86,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Glow
 - Graphical
 - Gravity
+- Gum | CheatingAndLeaking | https://www.youtube.com/watch?v=CyHyWQ4fBTU
 - Hanabi
 - Hawk
 - Helium
