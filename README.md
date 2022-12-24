@@ -140,6 +140,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 - Milky | https://youtube.com/watch?v=N_PufTSoDGc
 - NeverHook | https://youtube.com/watch?v=m3ErCJWe3oQ
 - Night
+- NightX
 - Nightmare 2 | https://youtube.com/watch?v=ALHBxxXszgQ
 - Nivia
 - Null | https://youtube.com/watch?v=bt2Gmk3WSxw
