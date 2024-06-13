@@ -4,6 +4,7 @@ A list of every 1.8.8/9 blatant or ghost client that has ever existed
 (Name | Developer(s) | Website(s))
 
 ## BLATANT
+- Acrimony | spartanoah?
 - Adapt | https://adaptclient.com
 - Adjust
 - Aether | https://minecraftclients.com
